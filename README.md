@@ -1,4 +1,4 @@
-# Software usado para analise jupyter(Anaconda)
+# Software usado para analise [Anaconda](https://www.anaconda.com/)
 
 # Vender Bermudas
 ## Aumentar numeros de vendas
