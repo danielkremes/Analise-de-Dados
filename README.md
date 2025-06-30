@@ -1,3 +1,5 @@
+# Software usado para analise jupyter(Anaconda)
+
 # Vender Bermudas
 ## Aumentar numeros de vendas
 - Base: Vendas.xlsx
