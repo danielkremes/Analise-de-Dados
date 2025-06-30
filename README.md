@@ -23,14 +23,13 @@
 
 `print(faturamento_total)` - disponibilizando faturamenteo total de todas as lojas
 
-![image](https://github.com/user-attachments/assets/afeb4d86-c24f-4383-b53d-e1ebb358f9ee)
-
-
 # Analise TOP DOWN 
 
 `faturamento_por_loja = tabela[['ID Loja','Valor Final']].groupby('ID Loja').sum()` - criando faturamento de cada loja
 
 `display(faturamento_por_loja)` - disponibilizando faturamenteo de cada loja
+
+![image](https://github.com/user-attachments/assets/afeb4d86-c24f-4383-b53d-e1ebb358f9ee)
 
 # Entrar no detalhe de cada loja
 
